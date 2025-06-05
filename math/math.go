@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+
 	fmt.Println("Math operations in Go:")
 	fmt.Println("Square root of 16:", math.Sqrt(16))
 	fmt.Println("Power of 2 raised to 3:", math.Pow(2, 3))
